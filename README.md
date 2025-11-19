@@ -41,11 +41,14 @@ Scanner for user input
 
 ## 🗂️ Project Structure
 LibraryManagementSystem/
-│
-├── Book.java        # Book class with id, title, author, issued-status
-├── Member.java      # Member class for user data
-├── Library.java     # Core operations (add/view/issue/return)
-└── Main.java        # Main menu and program execution
+ │
+ ├── Book.java        # Book class with id, title, author, issued-status
+ 
+ ├── Member.java      # Member class for user data
+ 
+ ├── Library.java     # Core operations (add/view/issue/return)
+ 
+ └── Main.java        # Main menu and program execution
 
 📄 How It Works
 1️⃣ Main Menu
