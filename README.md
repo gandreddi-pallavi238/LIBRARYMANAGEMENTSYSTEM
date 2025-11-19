@@ -41,6 +41,7 @@ Scanner for user input
 
 ## 🗂️ Project Structure
 LibraryManagementSystem/
+
  │
  ├── Book.java        # Book class with id, title, author, issued-status
  
