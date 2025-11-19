@@ -97,7 +97,7 @@ Java Collections Framework
 
 📦 How To Run
 ✔ Step 1 — Clone the Repo
-git clone https://github.com/your-username/LibraryManagementSystem.git
+git clone https://github.com/gandreddi-pallavi238/LibraryManagementSystem.git
 
 ✔ Step 2 — Open in VS Code / IntelliJ
 ✔ Step 3 — Compile the Files
